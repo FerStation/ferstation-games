@@ -3,7 +3,6 @@ name: Deploy site to Pages
 on:
   push:
     branches: [main]
-    paths: ["site/**"]
 
 permissions:
   contents: read
