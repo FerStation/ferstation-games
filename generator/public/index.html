@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FerStation — Gerenciador</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link rel="stylesheet" href="css/admin.css">
+</head>
+
+<body>
+
+<header class="nav">
+
+    <div class="container nav-inner">
+
+        <div class="brand">
+
+            <span class="dot"></span>
+
+            <strong>FERSTATION</strong>
+
+            <span class="brand-separator"></span>
+
+            <span class="brand-label">
+                GERENCIADOR
+            </span>
+
+        </div>
+
+        <a
+            href="../site/"
+            target="_blank"
+            class="site-link"
+        >
+            Ver diário ↗
+        </a>
+
+    </div>
+
+</header>
+
+
+<main class="container admin">
+
+    <!-- HERO -->
+
+    <section class="admin-hero">
+
+        <div>
+
+            <div class="eyebrow">
+                DIÁRIO DE GAMES
+            </div>
+
+            <h1>
+                Gerencie seus<br>
+                jogos zerados.
+            </h1>
+
+            <p>
+                Adicione jogos individualmente, importe sua lista
+                ou edite as informações do seu diário.
+            </p>
+
+        </div>
+
+
+        <div class="total-card">
+
+            <strong id="totalGames">
+                0
+            </strong>
+
+            <span>
+                jogos registrados
+            </span>
+
+        </div>
+
+    </section>
+
+
+    <!-- AÇÕES -->
+
+    <section class="actions-grid">
+
+
+        <!-- IMPORTAÇÃO -->
+
+        <div
+            class="action-card drop-zone"
+            id="dropZone"
+        >
+
+            <div class="action-icon">
+                ↓
+            </div>
+
+            <h2>
+                Importar jogos
+            </h2>
+
+            <p>
+                Arraste um arquivo TXT, XLSX ou XLS
+                para adicionar vários jogos de uma vez.
+            </p>
+
+
+            <input
+                type="file"
+                id="fileInput"
+                accept=".txt,.xlsx,.xls"
+                hidden
+            >
+
+
+            <button
+                type="button"
+                class="button secondary"
+                id="selectFileButton"
+            >
+                Selecionar arquivo
+            </button>
+
+
+            <small>
+                TXT:
+                <code>
+                    game|completedDate|platform|source
+                </code>
+            </small>
+
+        </div>
+
+
+        <!-- CADASTRO MANUAL -->
+
+        <div class="action-card">
+
+            <div class="action-icon">
+                +
+            </div>
+
+            <h2>
+                Adicionar jogo
+            </h2>
+
+            <p>
+                Cadastre um jogo individualmente e
+                encontre automaticamente suas informações na IGDB.
+            </p>
+
+
+            <button
+                type="button"
+                class="button primary"
+                id="addGameButton"
+            >
+                Adicionar jogo
+            </button>
+
+        </div>
+
+    </section>
+
+
+    <!-- BIBLIOTECA -->
+
+    <section class="library panel">
+
+        <div class="library-header">
+
+            <div>
+
+                <div class="kicker">
+                    BIBLIOTECA
+                </div>
+
+                <h2>
+                    Jogos cadastrados
+                </h2>
+
+            </div>
+
+
+            <div class="library-tools">
+
+                <input
+                    type="search"
+                    id="searchGames"
+                    placeholder="Filtrar jogos..."
+                >
+
+            </div>
+
+        </div>
+
+
+        <div id="gamesContainer">
+
+            <div class="loading">
+                Carregando jogos...
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<!-- MODAL -->
+
+<div
+    class="modal-backdrop hidden"
+    id="modalBackdrop"
+>
+
+    <div class="modal">
+
+        <div class="modal-header">
+
+            <div>
+
+                <div class="kicker">
+                    CADASTRO
+                </div>
+
+                <h2 id="modalTitle">
+                    Adicionar jogo
+                </h2>
+
+            </div>
+
+
+            <button
+                type="button"
+                class="close-button"
+                id="closeModal"
+            >
+                ×
+            </button>
+
+        </div>
+
+
+        <div
+            class="modal-content"
+            id="modalContent"
+        ></div>
+
+    </div>
+
+</div>
+
+
+<!-- TOAST -->
+
+<div
+    class="toast-container"
+    id="toastContainer"
+></div>
+
+
+<script src="js/admin.js"></script>
+
+</body>
+</html>

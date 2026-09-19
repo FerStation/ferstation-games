@@ -1,0 +1,33 @@
+{
+  "name": "ferstation-games-manager",
+  "version": "1.0.0",
+  "description": "Admin app for FerStation's completed-games diary: add, edit, import and manage games (IGDB metadata + covers). Writes site/games.json and site/covers/ and serves the public site at /site/.",
+  "private": true,
+  "type": "module",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18.18.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "cli": "node index.js"
+  },
+  "keywords": [
+    "ferstation",
+    "games",
+    "igdb",
+    "diary",
+    "diario",
+    "admin"
+  ],
+  "author": "FerStation",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "xlsx": "^0.18.5"
+  }
+}

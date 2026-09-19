@@ -1,0 +1,2440 @@
+[
+  {
+    "title": "Bomboy",
+    "developer": "Gamtec",
+    "releaseYear": 1993,
+    "completedDate": "2001-2012",
+    "platform": "Megadrive",
+    "source": "Console",
+    "genres": [
+      "Arcade"
+    ],
+    "cover": "covers/bomboy.jpg",
+    "igdbId": 45737,
+    "slug": "bomboy"
+  },
+  {
+    "recordId": "5ce91f5c-1cca-4e3c-8bad-e75135381339",
+    "title": "Battle Arena Toshinden",
+    "developer": "Tamsoft",
+    "releaseYear": 1995,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting"
+    ],
+    "cover": "covers/battle-arena-toshinden.jpg",
+    "igdbId": 1413,
+    "slug": "battle-arena-toshinden"
+  },
+  {
+    "title": "Crisis Beat",
+    "developer": "Bandai, Soft Machine",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting",
+      "Hack and slash/Beat 'em up"
+    ],
+    "cover": "covers/crisis-beat.jpg",
+    "igdbId": 4136,
+    "slug": "crisis-beat"
+  },
+  {
+    "recordId": "57d0735e-92ec-421a-a8ee-7a274865cd00",
+    "title": "Spider-Man 2: Enter Electro",
+    "developer": "Vicarious Visions",
+    "releaseYear": 2001,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/spider-man-2-enter-electro.jpg",
+    "igdbId": 4118,
+    "slug": "spider-man-2-enter-electro"
+  },
+  {
+    "title": "Street Sk8er",
+    "developer": "Atelier Double",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Racing",
+      "Sport"
+    ],
+    "cover": "covers/street-sk8er.jpg",
+    "igdbId": 22839,
+    "slug": "street-sk8er"
+  },
+  {
+    "title": "Moto Racer 2",
+    "developer": "Delphine Software",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Racing"
+    ],
+    "cover": "covers/moto-racer-2.jpg",
+    "igdbId": 10561,
+    "slug": "moto-racer-2"
+  },
+  {
+    "title": "Road Rash: Jailbreak",
+    "developer": "EA Redwood Shores",
+    "releaseYear": 2000,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Racing"
+    ],
+    "cover": "covers/road-rash-jailbreak.jpg",
+    "igdbId": 44897,
+    "slug": "road-rash-jailbreak"
+  },
+  {
+    "title": "World's Scariest Police Chases",
+    "developer": "Unique Development Studios",
+    "releaseYear": 2001,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Racing"
+    ],
+    "cover": "covers/world-s-scariest-police-chases.jpg",
+    "igdbId": 45093,
+    "slug": "worlds-scariest-police-chases"
+  },
+  {
+    "title": "Gran Turismo 2",
+    "developer": "Polyphony Digital",
+    "releaseYear": 1999,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Racing",
+      "Simulator"
+    ],
+    "cover": "covers/gran-turismo-2.jpg",
+    "igdbId": 1597,
+    "slug": "gran-turismo-2"
+  },
+  {
+    "title": "Big Ol' Bass 2",
+    "developer": "Konami Computer Entertainment Nagoya",
+    "releaseYear": 1999,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Sport"
+    ],
+    "cover": "covers/big-ol-bass-2.jpg",
+    "igdbId": 43921,
+    "slug": "big-ol-bass-2"
+  },
+  {
+    "title": "Medal of Honor",
+    "developer": "Dreamworks Interactive",
+    "releaseYear": 1999,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/medal-of-honor.jpg",
+    "igdbId": 1307,
+    "slug": "medal-of-honor--2"
+  },
+  {
+    "title": "Crash Bandicoot",
+    "developer": "Naughty Dog",
+    "releaseYear": 1996,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Platform"
+    ],
+    "cover": "covers/crash-bandicoot.jpg",
+    "igdbId": 1185,
+    "slug": "crash-bandicoot"
+  },
+  {
+    "title": "Crash Bandicoot 2: Cortex Strikes Back",
+    "developer": "Naughty Dog",
+    "releaseYear": 1997,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "cover": "covers/crash-bandicoot-2-cortex-strikes-back.jpg",
+    "igdbId": 1186,
+    "slug": "crash-bandicoot-2-cortex-strikes-back"
+  },
+  {
+    "title": "Crash Bandicoot: Warped",
+    "developer": "Naughty Dog",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "cover": "covers/crash-bandicoot-warped.jpg",
+    "igdbId": 1187,
+    "slug": "crash-bandicoot-warped"
+  },
+  {
+    "title": "Crash Team Racing",
+    "developer": "Naughty Dog",
+    "releaseYear": 1999,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Racing"
+    ],
+    "cover": "covers/crash-team-racing.jpg",
+    "igdbId": 1192,
+    "slug": "crash-team-racing"
+  },
+  {
+    "title": "Muppet Monster Adventure",
+    "developer": "Jim Henson Interactive, Magenta Software",
+    "releaseYear": 2000,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Platform"
+    ],
+    "cover": "covers/muppet-monster-adventure.jpg",
+    "igdbId": 3258,
+    "slug": "muppet-monster-adventure"
+  },
+  {
+    "title": "Darkstalkers 3",
+    "developer": "Capcom",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting",
+      "Arcade"
+    ],
+    "cover": "covers/vampire-savior-the-lord-of-vampire.jpg",
+    "igdbId": 4135,
+    "slug": "vampire-savior-the-lord-of-vampire"
+  },
+  {
+    "title": "Ace Combat 2",
+    "developer": "Namco",
+    "releaseYear": 1997,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Simulator"
+    ],
+    "cover": "covers/ace-combat-2.jpg",
+    "igdbId": 14750,
+    "slug": "ace-combat-2"
+  },
+  {
+    "title": "The King of Fighters '99: Millennium Battle",
+    "developer": "SNK",
+    "releaseYear": 1999,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting"
+    ],
+    "cover": "covers/the-king-of-fighters-99-millennium-battle.jpg",
+    "igdbId": 15430,
+    "slug": "the-king-of-fighters-99-millennium-battle"
+  },
+  {
+    "title": "Metal Gear Solid",
+    "developer": "Konami",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "cover": "covers/metal-gear-solid.jpg",
+    "igdbId": 375,
+    "slug": "metal-gear-solid--1"
+  },
+  {
+    "title": "James Bond 007: Tomorrow Never Dies",
+    "developer": "Black Ops Entertainment",
+    "releaseYear": 1999,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/james-bond-007-tomorrow-never-dies.jpg",
+    "igdbId": 1640,
+    "slug": "james-bond-007-tomorrow-never-dies"
+  },
+  {
+    "title": "Earthworm Jim",
+    "developer": "Shiny Entertainment",
+    "releaseYear": 1994,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Platform"
+    ],
+    "cover": "covers/earthworm-jim.jpg",
+    "igdbId": 3480,
+    "slug": "earthworm-jim"
+  },
+  {
+    "title": "Tekken 3",
+    "developer": "Namco",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting",
+      "Hack and slash/Beat 'em up",
+      "Arcade"
+    ],
+    "cover": "covers/tekken-3.jpg",
+    "igdbId": 306134,
+    "slug": "tekken-3--1"
+  },
+  {
+    "title": "Championship Motocross 2001 featuring Ricky Carmichael",
+    "developer": "Funcom",
+    "releaseYear": 2001,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Racing",
+      "Sport"
+    ],
+    "cover": "covers/championship-motocross-2001-featuring-ricky-carmichael.jpg",
+    "igdbId": 292793,
+    "slug": "championship-motocross-2001-featuring-ricky-carmichael"
+  },
+  {
+    "title": "Star Wars: Episode I - Jedi Power Battles",
+    "developer": "LucasArts",
+    "releaseYear": 2001,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Platform",
+      "Hack and slash/Beat 'em up"
+    ],
+    "cover": "covers/star-wars-jedi-power-battles.jpg",
+    "igdbId": 301489,
+    "slug": "star-wars-jedi-power-battles--1"
+  },
+  {
+    "title": "Driver 2: Back on the Streets",
+    "developer": "Reflections Interactive",
+    "releaseYear": 2000,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Racing"
+    ],
+    "cover": "covers/driver-2-back-on-the-streets.jpg",
+    "igdbId": 6391,
+    "slug": "driver-2-back-on-the-streets"
+  },
+  {
+    "title": "X-Men vs. Street Fighter",
+    "developer": "Capcom",
+    "releaseYear": 1996,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting",
+      "Arcade"
+    ],
+    "cover": "covers/x-men-vs-street-fighter.jpg",
+    "igdbId": 8244,
+    "slug": "x-men-vs-street-fighter"
+  },
+  {
+    "recordId": "4947a28c-e220-46af-b470-914d4913f5d4",
+    "title": "Beyblade: Let it Rip!",
+    "developer": "Takara",
+    "releaseYear": 2001,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting"
+    ],
+    "cover": "covers/beyblade-let-it-rip.jpg",
+    "igdbId": 4653,
+    "slug": "beyblade-let-it-rip"
+  },
+  {
+    "title": "Fighting Force",
+    "developer": "Core Design",
+    "releaseYear": 1997,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting",
+      "Strategy",
+      "Hack and slash/Beat 'em up"
+    ],
+    "cover": "covers/fighting-force.jpg",
+    "igdbId": 2542,
+    "slug": "fighting-force"
+  },
+  {
+    "title": "SpongeBob SquarePants: SuperSponge",
+    "developer": "Climax Group",
+    "releaseYear": 2001,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Platform"
+    ],
+    "cover": "covers/spongebob-squarepants-supersponge.jpg",
+    "igdbId": 2761,
+    "slug": "spongebob-squarepants-supersponge--1"
+  },
+  {
+    "title": "Bloody Roar 2",
+    "developer": "Raizing",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting",
+      "Arcade"
+    ],
+    "cover": "covers/bloody-roar-2.jpg",
+    "igdbId": 4140,
+    "slug": "bloody-roar-2"
+  },
+  {
+    "title": "Dragon Ball Z: The Legend",
+    "developer": "BEC, Tose",
+    "releaseYear": 1996,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting"
+    ],
+    "cover": "covers/dragon-ball-z-the-legend.jpg",
+    "igdbId": 2579,
+    "slug": "dragon-ball-z-the-legend"
+  },
+  {
+    "title": "Destruction Derby Raw",
+    "developer": "Studio 33",
+    "releaseYear": 2000,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Racing"
+    ],
+    "cover": "covers/destruction-derby-raw.jpg",
+    "igdbId": 1169,
+    "slug": "destruction-derby-raw"
+  },
+  {
+    "recordId": "5e550c5f-11da-45f5-857c-f75eee1f36c0",
+    "title": "Mortal Kombat 4",
+    "developer": "Midway Games, Eurocom Entertainment Software",
+    "releaseYear": 1997,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting"
+    ],
+    "cover": "covers/mortal-kombat-4.jpg",
+    "igdbId": 1622,
+    "slug": "mortal-kombat-4"
+  },
+  {
+    "title": "Dino Crisis 2",
+    "developer": "Capcom Production Studio 4",
+    "releaseYear": 2000,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/dino-crisis-2.jpg",
+    "igdbId": 4132,
+    "slug": "dino-crisis-2"
+  },
+  {
+    "recordId": "343ae4c2-ea0e-424b-8ff4-74aa16cb8f03",
+    "title": "Dragon Ball Z: Ultimate Battle 22",
+    "developer": "Tose",
+    "releaseYear": 1995,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Fighting"
+    ],
+    "cover": "covers/dragon-ball-z-ultimate-battle-22.jpg",
+    "igdbId": 2543,
+    "slug": "dragon-ball-z-ultimate-battle-22"
+  },
+  {
+    "title": "Dino Crisis",
+    "developer": "Capcom Planning Room 2",
+    "releaseYear": 1999,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ],
+    "cover": "covers/dino-crisis.jpg",
+    "igdbId": 3027,
+    "slug": "dino-crisis"
+  },
+  {
+    "recordId": "dcc590b7-6ff2-423b-b2b4-e8f87fc50511",
+    "title": "Spyro 2: Ripto's Rage!",
+    "developer": "Insomniac Games",
+    "releaseYear": 1999,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "cover": "covers/spyro-2-ripto-s-rage-original.jpg",
+    "igdbId": 1577,
+    "slug": "spyro-2-ripto-s-rage"
+  },
+  {
+    "recordId": "39c00f25-323d-4c85-8569-8161ee71854f",
+    "title": "Resident Evil 2",
+    "developer": "Capcom Planning Room 2",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ],
+    "cover": "covers/resident-evil-2.jpg",
+    "igdbId": 880,
+    "slug": "resident-evil-2"
+  },
+  {
+    "recordId": "d575beb1-22bb-4424-871f-4d3c402e1a0b",
+    "title": "Space Impact",
+    "developer": "Nokia",
+    "releaseYear": 2000,
+    "completedDate": "2001-2012",
+    "platform": "Nokia 3310",
+    "source": "Celular",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/space-impact.jpg",
+    "igdbId": 282457,
+    "slug": "space-impact--1"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "developer": "Argonaut Games",
+    "releaseYear": 2001,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Role-playing (RPG)"
+    ],
+    "cover": "covers/harry-potter-and-the-sorcerer-s-stone.jpg",
+    "igdbId": 341,
+    "slug": "harry-potter-and-the-sorcerers-stone"
+  },
+  {
+    "title": "Parasite Eve",
+    "developer": "Square",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "cover": "covers/parasite-eve.jpg",
+    "igdbId": 7357,
+    "slug": "parasite-eve"
+  },
+  {
+    "title": "James Bond 007: The World Is Not Enough",
+    "developer": "Black Ops Entertainment",
+    "releaseYear": 2000,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/james-bond-007-the-world-is-not-enough.jpg",
+    "igdbId": 158962,
+    "slug": "james-bond-007-the-world-is-not-enough"
+  },
+  {
+    "title": "Vigilante 8",
+    "developer": "Luxoflux",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/vigilante-8.jpg",
+    "igdbId": 3332,
+    "slug": "vigilante-8"
+  },
+  {
+    "recordId": "4c7197e2-6282-4869-b5ce-12d45697faab",
+    "title": "Medal of Honor: Underground",
+    "developer": "Dreamworks Interactive",
+    "releaseYear": 2000,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/medal-of-honor-underground.jpg",
+    "igdbId": 1308,
+    "slug": "medal-of-honor-underground"
+  },
+  {
+    "recordId": "3bf4e5a3-ad6d-4d7d-96b6-89a19b827539",
+    "title": "Spyro the Dragon",
+    "developer": "Insomniac Games",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "cover": "covers/spyro-the-dragon-original.jpg",
+    "igdbId": 1576,
+    "slug": "spyro-the-dragon"
+  },
+  {
+    "recordId": "be4ad537-64d7-4bac-aca7-fd87f9c39e0e",
+    "title": "Apocalypse",
+    "developer": "Neversoft Entertainment",
+    "releaseYear": 1998,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/apocalypse.jpg",
+    "igdbId": 15547,
+    "slug": "apocalypse--1"
+  },
+  {
+    "title": "Need for Speed: Carbon",
+    "developer": "EA Canada",
+    "releaseYear": 2006,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Racing"
+    ],
+    "cover": "covers/need-for-speed-carbon.jpg",
+    "igdbId": 248118,
+    "slug": "need-for-speed-carbon--1"
+  },
+  {
+    "title": "Virus: It is Aware",
+    "developer": "Cryo Interactive",
+    "releaseYear": 1999,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Puzzle"
+    ],
+    "cover": "covers/virus-it-is-aware.jpg",
+    "igdbId": 43794,
+    "slug": "virus-it-is-aware",
+    "recordId": "e9d8c6b2-333d-4790-be1d-dc4c9acbd345"
+  },
+  {
+    "title": "Delta Force: Urban Warfare",
+    "developer": "Rebellion Developments",
+    "releaseYear": 2002,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ],
+    "cover": "covers/delta-force-urban-warfare.jpg",
+    "igdbId": 4134,
+    "slug": "delta-force-urban-warfare"
+  },
+  {
+    "title": "Diablo",
+    "developer": "Blizzard North",
+    "releaseYear": 1996,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Role-playing (RPG)"
+    ],
+    "cover": "covers/diablo.jpg",
+    "igdbId": 125,
+    "slug": "diablo",
+    "recordId": "26166fe9-5f72-4971-96d9-6555f3149143"
+  },
+  {
+    "title": "God of War",
+    "developer": "SIE Santa Monica Studio",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/god-of-war-original.jpg",
+    "igdbId": 549,
+    "slug": "god-of-war--1",
+    "recordId": "256bac43-e19e-45d1-95ca-b55509980333"
+  },
+  {
+    "recordId": "f7201e15-b0a9-497f-9f17-13ef4d4b375f",
+    "title": "God of War II",
+    "developer": "SCE Santa Monica Studio",
+    "releaseYear": 2007,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Platform",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/god-of-war-ii.jpg",
+    "igdbId": 551,
+    "slug": "god-of-war-ii"
+  },
+  {
+    "title": "Cold Winter",
+    "developer": "Swordfish Studios",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/cold-winter.jpg",
+    "igdbId": 8277,
+    "slug": "cold-winter"
+  },
+  {
+    "title": "Grand Theft Auto: Liberty City Stories",
+    "developer": "Rockstar North, Rockstar Leeds",
+    "releaseYear": 2006,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Racing",
+      "Adventure"
+    ],
+    "cover": "covers/grand-theft-auto-liberty-city-stories.jpg",
+    "igdbId": 309110,
+    "slug": "grand-theft-auto-liberty-city-stories--2"
+  },
+  {
+    "title": "Need for Speed: Most Wanted",
+    "developer": "EA Redwood Shores",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Racing"
+    ],
+    "cover": "covers/need-for-speed-most-wanted.jpg",
+    "igdbId": 243048,
+    "slug": "need-for-speed-most-wanted--2"
+  },
+  {
+    "title": "Legacy of Kain: Soul Reaver",
+    "developer": "Crystal Dynamics",
+    "releaseYear": 1999,
+    "completedDate": "2001-2012",
+    "platform": "PS1",
+    "source": "Console",
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "cover": "covers/legacy-of-kain-soul-reaver.jpg",
+    "igdbId": 4122,
+    "slug": "legacy-of-kain-soul-reaver"
+  },
+  {
+    "title": "Prince of Persia: The Two Thrones",
+    "developer": "Ubisoft Casablanca",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Platform",
+      "Hack and slash/Beat 'em up"
+    ],
+    "cover": "covers/prince-of-persia-the-two-thrones.jpg",
+    "igdbId": 2437,
+    "slug": "prince-of-persia-the-two-thrones--1"
+  },
+  {
+    "title": "Black",
+    "developer": "Criterion Games",
+    "releaseYear": 2006,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/black.jpg",
+    "igdbId": 5749,
+    "slug": "black"
+  },
+  {
+    "title": "Prince of Persia: The Sands of Time",
+    "developer": "Ubisoft Montreal",
+    "releaseYear": 2003,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "cover": "covers/prince-of-persia-the-sands-of-time.jpg",
+    "igdbId": 836,
+    "slug": "prince-of-persia-the-sands-of-time"
+  },
+  {
+    "title": "Gun",
+    "developer": "Neversoft Entertainment",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Adventure"
+    ],
+    "cover": "covers/gun.jpg",
+    "igdbId": 3939,
+    "slug": "gun"
+  },
+  {
+    "title": "Need for Speed: Underground 2",
+    "developer": "EA Black Box",
+    "releaseYear": 2004,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Racing"
+    ],
+    "cover": "covers/need-for-speed-underground-2.jpg",
+    "igdbId": 97,
+    "slug": "need-for-speed-underground-2--2"
+  },
+  {
+    "title": "Shadow of the Colossus",
+    "developer": "Team Ico",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "cover": "covers/shadow-of-the-colossus.jpg",
+    "igdbId": 2207,
+    "slug": "shadow-of-the-colossus--2",
+    "recordId": "cdc29deb-35f0-48b9-8fc5-d2d29df970b3"
+  },
+  {
+    "recordId": "a9b06f36-901e-4f49-88c8-6ad473fe6814",
+    "title": "Surf's Up",
+    "developer": "Ubisoft Montreal, Ubisoft Québec",
+    "releaseYear": 2007,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Sport"
+    ],
+    "cover": "covers/surf-s-up.jpg",
+    "igdbId": 201349,
+    "slug": "surfs-up"
+  },
+  {
+    "title": "Spartan: Total Warrior",
+    "developer": "The Creative Assembly",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Hack and slash/Beat 'em up"
+    ],
+    "cover": "covers/spartan-total-warrior.jpg",
+    "igdbId": 439,
+    "slug": "spartan-total-warrior"
+  },
+  {
+    "title": "State of Emergency 2",
+    "developer": "DC Studios",
+    "releaseYear": 2006,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/state-of-emergency-2.jpg",
+    "igdbId": 6162,
+    "slug": "state-of-emergency-2"
+  },
+  {
+    "title": "Onimusha 3: Demon Siege",
+    "developer": "Capcom Production Studio 2",
+    "releaseYear": 2004,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Adventure"
+    ],
+    "cover": "covers/onimusha-3-demon-siege.jpg",
+    "igdbId": 11758,
+    "slug": "onimusha-3-demon-siege"
+  },
+  {
+    "title": "Metal Gear Solid 3: Snake Eater",
+    "developer": "Konami Computer Entertainment Japan",
+    "releaseYear": 2004,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "cover": "covers/metal-gear-solid-3-snake-eater.jpg",
+    "igdbId": 379,
+    "slug": "metal-gear-solid-3-snake-eater"
+  },
+  {
+    "title": "Call of Duty 2: Big Red One",
+    "developer": "Treyarch",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/call-of-duty-2-big-red-one.jpg",
+    "igdbId": 3845,
+    "slug": "call-of-duty-2-big-red-one"
+  },
+  {
+    "recordId": "ee5a3df3-dc2b-4d68-a4bf-0c993441444f",
+    "title": "Call of Duty: World at War - Final Fronts",
+    "developer": "Rebellion Developments",
+    "releaseYear": 2008,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/call-of-duty-world-at-war-final-fronts.jpg",
+    "igdbId": 19836,
+    "slug": "call-of-duty-world-at-war-final-fronts"
+  },
+  {
+    "title": "Without Warning",
+    "developer": "Circle Studio",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Arcade"
+    ],
+    "cover": "covers/without-warning.jpg",
+    "igdbId": 6236,
+    "slug": "without-warning"
+  },
+  {
+    "title": "Star Wars: The Force Unleashed",
+    "developer": "Krome Studios",
+    "releaseYear": 2008,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Hack and slash/Beat 'em up"
+    ],
+    "cover": "covers/star-wars-the-force-unleashed.jpg",
+    "igdbId": 399295,
+    "slug": "star-wars-the-force-unleashed--5"
+  },
+  {
+    "title": "Castlevania: Curse of Darkness",
+    "developer": "Konami",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/castlevania-curse-of-darkness.jpg",
+    "igdbId": 1137,
+    "slug": "castlevania-curse-of-darkness"
+  },
+  {
+    "title": "ObsCure: The Aftermath",
+    "developer": "Hydravision Entertainment",
+    "releaseYear": 2007,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Adventure"
+    ],
+    "cover": "covers/obscure-the-aftermath.jpg",
+    "igdbId": 5080,
+    "slug": "obscure-the-aftermath"
+  },
+  {
+    "title": "ObsCure",
+    "developer": "Hydravision Entertainment",
+    "releaseYear": 2004,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Adventure"
+    ],
+    "cover": "covers/obscure.jpg",
+    "igdbId": 5941,
+    "slug": "obscure"
+  },
+  {
+    "recordId": "448efd8c-9b54-45df-808e-a22e4e434330",
+    "title": "Resident Evil 4",
+    "developer": "Capcom Production Studio 4",
+    "releaseYear": 2005,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/resident-evil-4.jpg",
+    "igdbId": 145191,
+    "slug": "resident-evil-4--2"
+  },
+  {
+    "title": "Metal Gear Solid 2: Sons of Liberty",
+    "developer": "Konami Computer Entertainment Japan",
+    "releaseYear": 2001,
+    "completedDate": "2001-2012",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "cover": "covers/metal-gear-solid-2-sons-of-liberty.jpg",
+    "igdbId": 376,
+    "slug": "metal-gear-solid-2-sons-of-liberty"
+  },
+  {
+    "recordId": "bce761bf-a870-41f0-ba8a-775405e55788",
+    "title": "Battlefield 3",
+    "developer": "EA Digital Illusions CE",
+    "releaseYear": 2011,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Origin",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/battlefield-3.jpg",
+    "igdbId": 343,
+    "slug": "battlefield-3"
+  },
+  {
+    "title": "Battlefield 4",
+    "developer": "EA Digital Illusions CE",
+    "releaseYear": 2013,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Origin",
+    "genres": [
+      "Shooter",
+      "Simulator",
+      "Strategy"
+    ],
+    "cover": "covers/battlefield-4.jpg",
+    "igdbId": 1979,
+    "slug": "battlefield-4"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare 3",
+    "developer": "Sledgehammer Games, Infinity Ward",
+    "releaseYear": 2011,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "PCDVD",
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "cover": "covers/call-of-duty-modern-warfare-3.jpg",
+    "igdbId": 979,
+    "slug": "call-of-duty-modern-warfare-3"
+  },
+  {
+    "title": "Crysis",
+    "developer": "Crytek Frankfurt",
+    "releaseYear": 2007,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Origin",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/crysis.jpg",
+    "igdbId": 296,
+    "slug": "crysis"
+  },
+  {
+    "title": "Crysis Warhead",
+    "developer": "Crytek Budapest",
+    "releaseYear": 2008,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Origin",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/crysis-warhead.jpg",
+    "igdbId": 336,
+    "slug": "crysis-warhead"
+  },
+  {
+    "title": "Metro 2033",
+    "developer": "4A Games",
+    "releaseYear": 2010,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)"
+    ],
+    "cover": "covers/metro-2033.jpg",
+    "igdbId": 495,
+    "slug": "metro-2033"
+  },
+  {
+    "title": "Metro: Last Light",
+    "developer": "4A Games",
+    "releaseYear": 2013,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/metro-last-light.jpg",
+    "igdbId": 539,
+    "slug": "metro-last-light"
+  },
+  {
+    "recordId": "6839a160-42ac-4348-b29e-31c3cde95ee9",
+    "title": "Tomb Raider",
+    "developer": "Crystal Dynamics",
+    "releaseYear": 2013,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "PCDVD",
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "cover": "covers/tomb-raider.jpg",
+    "igdbId": 1164,
+    "slug": "tomb-raider--2"
+  },
+  {
+    "title": "Dead Space 2",
+    "developer": "Visceral Games",
+    "releaseYear": 2011,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "PCDVD",
+    "genres": [],
+    "cover": "covers/dead-space-2.jpg",
+    "igdbId": 264868,
+    "slug": "dead-space-2--1"
+  },
+  {
+    "title": "Crysis 2",
+    "developer": "Crytek Frankfurt",
+    "releaseYear": 2011,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Origin",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/crysis-2.jpg",
+    "igdbId": 471,
+    "slug": "crysis-2"
+  },
+  {
+    "title": "Crysis 3",
+    "developer": "Crytek Frankfurt, Crytek UK",
+    "releaseYear": 2013,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Origin",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/crysis-3.jpg",
+    "igdbId": 1268,
+    "slug": "crysis-3"
+  },
+  {
+    "title": "Star Wars: The Force Unleashed II",
+    "developer": "LucasArts",
+    "releaseYear": 2010,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/star-wars-the-force-unleashed-ii.jpg",
+    "igdbId": 137,
+    "slug": "star-wars-the-force-unleashed-ii"
+  },
+  {
+    "title": "Dead Space",
+    "developer": "EA Redwood Shores",
+    "releaseYear": 2008,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Origin",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/dead-space.jpg",
+    "igdbId": 37,
+    "slug": "dead-space"
+  },
+  {
+    "title": "Dead Space 3",
+    "developer": "Visceral Games",
+    "releaseYear": 2013,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Origin",
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ],
+    "cover": "covers/dead-space-3.jpg",
+    "igdbId": 1216,
+    "slug": "dead-space-3"
+  },
+  {
+    "recordId": "f0480b11-f448-40a2-91c7-e35f57a895a6",
+    "title": "Batman: Arkham Asylum",
+    "developer": "Rocksteady Studios",
+    "releaseYear": 2009,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/batman-arkham-asylum.jpg",
+    "igdbId": 500,
+    "slug": "batman-arkham-asylum"
+  },
+  {
+    "title": "Max Payne 3",
+    "developer": "Rockstar New England, Rockstar Vancouver, Rockstar London, Rockstar Toronto",
+    "releaseYear": 2012,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/max-payne-3.jpg",
+    "igdbId": 960,
+    "slug": "max-payne-3"
+  },
+  {
+    "recordId": "c5153540-0419-4b24-a78f-3f7ff69368a3",
+    "title": "Batman: Arkham City",
+    "developer": "Rocksteady Studios",
+    "releaseYear": 2011,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/batman-arkham-city.jpg",
+    "igdbId": 501,
+    "slug": "batman-arkham-city"
+  },
+  {
+    "title": "Metal Gear Solid V: Ground Zeroes",
+    "developer": "Kojima Productions",
+    "releaseYear": 2014,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "cover": "covers/metal-gear-solid-v-ground-zeroes.jpg",
+    "igdbId": 5328,
+    "slug": "metal-gear-solid-v-ground-zeroes"
+  },
+  {
+    "title": "Murdered: Soul Suspect",
+    "developer": "Airtight Games",
+    "releaseYear": 2014,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "cover": "covers/murdered-soul-suspect.jpg",
+    "igdbId": 3188,
+    "slug": "murdered-soul-suspect"
+  },
+  {
+    "title": "Abzu",
+    "developer": "Giant Squid",
+    "releaseYear": 2016,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/abzu.jpg",
+    "igdbId": 7352,
+    "slug": "abzu"
+  },
+  {
+    "title": "Final Fantasy IX",
+    "developer": "Guild Studio Inc., Silicon Studio, Square Enix Business Division 3",
+    "releaseYear": 2016,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "cover": "covers/final-fantasy-ix.jpg",
+    "igdbId": 88970,
+    "slug": "final-fantasy-ix--1"
+  },
+  {
+    "recordId": "268e6c28-c88a-4819-b3f8-4f6dfb313b23",
+    "title": "Injustice: Gods Among Us",
+    "developer": "NetherRealm Studios",
+    "releaseYear": 2013,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Fighting",
+      "Adventure"
+    ],
+    "cover": "covers/injustice-gods-among-us.jpg",
+    "igdbId": 1918,
+    "slug": "injustice-gods-among-us"
+  },
+  {
+    "title": "Mad Max",
+    "developer": "Avalanche Studios",
+    "releaseYear": 2015,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Racing",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/mad-max.jpg",
+    "igdbId": 2552,
+    "slug": "mad-max"
+  },
+  {
+    "title": "Ori and the Blind Forest",
+    "developer": "Moon Studios",
+    "releaseYear": 2015,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ],
+    "cover": "covers/ori-and-the-blind-forest.jpg",
+    "igdbId": 7344,
+    "slug": "ori-and-the-blind-forest"
+  },
+  {
+    "title": "Quantum Break",
+    "developer": "Remedy Entertainment",
+    "releaseYear": 2016,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/quantum-break.jpg",
+    "igdbId": 3750,
+    "slug": "quantum-break"
+  },
+  {
+    "title": "Ryse: Son of Rome",
+    "developer": "Crytek Frankfurt, Crytek",
+    "releaseYear": 2013,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/ryse-son-of-rome.jpg",
+    "igdbId": 3812,
+    "slug": "ryse-son-of-rome"
+  },
+  {
+    "title": "Soma",
+    "developer": "Frictional Games",
+    "releaseYear": 2015,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/soma.jpg",
+    "igdbId": 9727,
+    "slug": "soma"
+  },
+  {
+    "title": "Spec Ops: The Line",
+    "developer": "Yager Development",
+    "releaseYear": 2012,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/spec-ops-the-line.jpg",
+    "igdbId": 1377,
+    "slug": "spec-ops-the-line"
+  },
+  {
+    "title": "To the Moon",
+    "developer": "Freebird Games",
+    "releaseYear": 2011,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Point-and-click",
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/to-the-moon.jpg",
+    "igdbId": 5025,
+    "slug": "to-the-moon"
+  },
+  {
+    "title": "Transistor",
+    "developer": "Supergiant Games",
+    "releaseYear": 2014,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Turn-based strategy (TBS)",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/transistor.jpg",
+    "igdbId": 3022,
+    "slug": "transistor"
+  },
+  {
+    "title": "The Turing Test",
+    "developer": "Bulkhead",
+    "releaseYear": 2016,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ],
+    "cover": "covers/the-turing-test.jpg",
+    "igdbId": 18311,
+    "slug": "the-turing-test"
+  },
+  {
+    "title": "Doom",
+    "developer": "id Software",
+    "releaseYear": 2016,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/doom.jpg",
+    "igdbId": 7351,
+    "slug": "doom-2016"
+  },
+  {
+    "title": "Watch Dogs",
+    "developer": "Ubisoft Montreal",
+    "releaseYear": 2014,
+    "completedDate": "2013-2017",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/watch-dogs.jpg",
+    "igdbId": 1121,
+    "slug": "watch-dogs"
+  },
+  {
+    "title": "Tom Clancy's The Division",
+    "developer": "Massive Entertainment",
+    "releaseYear": 2016,
+    "completedDate": "2018",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Strategy",
+      "Tactical",
+      "Adventure"
+    ],
+    "cover": "covers/tom-clancy-s-the-division.jpg",
+    "igdbId": 2114,
+    "slug": "tom-clancy-s-the-division"
+  },
+  {
+    "title": "Gris",
+    "developer": "Nomada Studio",
+    "releaseYear": 2018,
+    "completedDate": "2019",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/gris.jpg",
+    "igdbId": 22917,
+    "slug": "gris"
+  },
+  {
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "developer": "Kojima Productions",
+    "releaseYear": 2015,
+    "completedDate": "2019",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ],
+    "cover": "covers/metal-gear-solid-v-the-phantom-pain.jpg",
+    "igdbId": 1985,
+    "slug": "metal-gear-solid-v-the-phantom-pain"
+  },
+  {
+    "title": "Rise of the Tomb Raider",
+    "developer": "Crystal Dynamics",
+    "releaseYear": 2015,
+    "completedDate": "2019",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/rise-of-the-tomb-raider.jpg",
+    "igdbId": 7323,
+    "slug": "rise-of-the-tomb-raider"
+  },
+  {
+    "title": "Aozora Meikyuu",
+    "developer": "Yume Creations",
+    "releaseYear": 2016,
+    "completedDate": "2019",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Visual Novel"
+    ],
+    "cover": "covers/aozora-meikyuu.jpg",
+    "igdbId": 33908,
+    "slug": "aozora-meikyuu"
+  },
+  {
+    "title": "Assassin's Creed Origins",
+    "developer": "Ubisoft Montreal",
+    "releaseYear": 2017,
+    "completedDate": "2019",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "cover": "covers/assassin-s-creed-origins.jpg",
+    "igdbId": 28540,
+    "slug": "assassins-creed-origins"
+  },
+  {
+    "title": "Spyro the Dragon",
+    "developer": "Toys for Bob",
+    "releaseYear": 2018,
+    "completedDate": "2020",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "cover": "covers/spyro-the-dragon.jpg",
+    "igdbId": 142213,
+    "slug": "spyro-the-dragon-remake"
+  },
+  {
+    "title": "Grand Theft Auto: San Andreas",
+    "developer": "Rockstar North",
+    "releaseYear": 2004,
+    "completedDate": "2020",
+    "platform": "PS2",
+    "source": "Console",
+    "genres": [
+      "Shooter",
+      "Racing",
+      "Adventure"
+    ],
+    "cover": "covers/grand-theft-auto-san-andreas.jpg",
+    "igdbId": 732,
+    "slug": "grand-theft-auto-san-andreas"
+  },
+  {
+    "recordId": "595ac076-2b8e-41be-bc5c-959913eb95cc",
+    "title": "Control",
+    "developer": "Remedy Entertainment",
+    "releaseYear": 2019,
+    "completedDate": "2021",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/control.jpg",
+    "igdbId": 103329,
+    "slug": "control"
+  },
+  {
+    "title": "NieR: Automata",
+    "developer": "PlatinumGames, Square Enix Business Division 6",
+    "releaseYear": 2017,
+    "completedDate": "2022",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up"
+    ],
+    "cover": "covers/nier-automata.jpg",
+    "igdbId": 11208,
+    "slug": "nier-automata"
+  },
+  {
+    "title": "Death Stranding",
+    "developer": "Kojima Productions",
+    "releaseYear": 2019,
+    "completedDate": "2022",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "cover": "covers/death-stranding.jpg",
+    "igdbId": 19564,
+    "slug": "death-stranding"
+  },
+  {
+    "title": "Days Gone",
+    "developer": "Bend Studio",
+    "releaseYear": 2019,
+    "completedDate": "2022",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/days-gone.jpg",
+    "igdbId": 19561,
+    "slug": "days-gone"
+  },
+  {
+    "title": "Star Wars Jedi: Fallen Order",
+    "developer": "Respawn Entertainment",
+    "releaseYear": 2019,
+    "completedDate": "2022",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Adventure"
+    ],
+    "cover": "covers/star-wars-jedi-fallen-order.jpg",
+    "igdbId": 74701,
+    "slug": "star-wars-jedi-fallen-order"
+  },
+  {
+    "title": "Metro Exodus",
+    "developer": "4A Games",
+    "releaseYear": 2019,
+    "completedDate": "2022",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/metro-exodus.jpg",
+    "igdbId": 37016,
+    "slug": "metro-exodus"
+  },
+  {
+    "title": "Hyper Light Drifter",
+    "developer": "Heart Machine",
+    "releaseYear": 2016,
+    "completedDate": "2023",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/hyper-light-drifter.jpg",
+    "igdbId": 9806,
+    "slug": "hyper-light-drifter"
+  },
+  {
+    "title": "Stray",
+    "developer": "BlueTwelve Studio",
+    "releaseYear": 2022,
+    "completedDate": "2023",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/stray.jpg",
+    "igdbId": 110248,
+    "slug": "stray"
+  },
+  {
+    "title": "Blasphemous",
+    "developer": "The Game Kitchen",
+    "releaseYear": 2019,
+    "completedDate": "2023",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/blasphemous.jpg",
+    "igdbId": 26820,
+    "slug": "blasphemous"
+  },
+  {
+    "title": "Chrono Trigger",
+    "developer": "Square Enix",
+    "releaseYear": 2018,
+    "completedDate": "2023",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "cover": "covers/chrono-trigger.jpg",
+    "igdbId": 206320,
+    "slug": "chrono-trigger--3"
+  },
+  {
+    "title": "Alan Wake",
+    "developer": "Remedy Entertainment",
+    "releaseYear": 2010,
+    "completedDate": "2023",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/alan-wake.jpg",
+    "igdbId": 1062,
+    "slug": "alan-wake"
+  },
+  {
+    "title": "Death's Door",
+    "developer": "Acid Nerve",
+    "releaseYear": 2021,
+    "completedDate": "2023",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/death-s-door.jpg",
+    "igdbId": 145099,
+    "slug": "deaths-door"
+  },
+  {
+    "title": "Prey",
+    "developer": "Arkane Studios",
+    "releaseYear": 2017,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "cover": "covers/prey.jpg",
+    "igdbId": 19531,
+    "slug": "prey--1"
+  },
+  {
+    "title": "Harry Potter and The Chamber of Secrets",
+    "developer": "Argonaut Games",
+    "releaseYear": 2002,
+    "completedDate": "2024",
+    "platform": "PS1",
+    "source": "DuckStation",
+    "genres": [
+      "Adventure"
+    ],
+    "cover": "covers/harry-potter-and-the-chamber-of-secrets.jpg",
+    "igdbId": 166321,
+    "slug": "harry-potter-and-the-chamber-of-secrets--5"
+  },
+  {
+    "title": "We Were Here Together",
+    "developer": "Total Mayhem Games",
+    "releaseYear": 2019,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/we-were-here-together.jpg",
+    "igdbId": 109535,
+    "slug": "we-were-here-together"
+  },
+  {
+    "title": "A Story About My Uncle",
+    "developer": "Gone North Games",
+    "releaseYear": 2014,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/a-story-about-my-uncle.jpg",
+    "igdbId": 7211,
+    "slug": "a-story-about-my-uncle"
+  },
+  {
+    "recordId": "cb524b65-57a1-4132-b0d0-ce2b75f37a62",
+    "title": "God of War",
+    "developer": "SIE Santa Monica Studio",
+    "releaseYear": 2018,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/god-of-war.jpg",
+    "igdbId": 19560,
+    "slug": "god-of-war-2018"
+  },
+  {
+    "title": "Grand Theft Auto IV",
+    "developer": "Rockstar North",
+    "releaseYear": 2008,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Racing",
+      "Adventure"
+    ],
+    "cover": "covers/grand-theft-auto-iv.jpg",
+    "igdbId": 731,
+    "slug": "grand-theft-auto-iv"
+  },
+  {
+    "title": "We Were Here Forever",
+    "developer": "Total Mayhem Games",
+    "releaseYear": 2022,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/we-were-here-forever.jpg",
+    "igdbId": 144455,
+    "slug": "we-were-here-forever"
+  },
+  {
+    "title": "Titan Souls",
+    "developer": "Acid Nerve",
+    "releaseYear": 2015,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/titan-souls.jpg",
+    "igdbId": 9559,
+    "slug": "titan-souls"
+  },
+  {
+    "title": "Escape from The Minotour",
+    "developer": "FerStation",
+    "releaseYear": 2024,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Itch.io",
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "",
+    "igdbId": 0,
+    "slug": ""
+  },
+  {
+    "title": "Metal Slug",
+    "developer": "Nazca Corporation",
+    "releaseYear": 1996,
+    "completedDate": "2024",
+    "platform": "ARCADE",
+    "source": "Game Stick Lite 4k",
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Arcade"
+    ],
+    "cover": "covers/metal-slug.jpg",
+    "igdbId": 1404,
+    "slug": "metal-slug"
+  },
+  {
+    "title": "System Shock",
+    "developer": "Nightdive Studios",
+    "releaseYear": 2023,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Simulator",
+      "Adventure"
+    ],
+    "cover": "covers/system-shock.jpg",
+    "igdbId": 18375,
+    "slug": "system-shock--1"
+  },
+  {
+    "title": "The Last of Us Part I",
+    "developer": "Naughty Dog",
+    "releaseYear": 2022,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ],
+    "cover": "covers/the-last-of-us-part-i.jpg",
+    "igdbId": 204350,
+    "slug": "the-last-of-us-part-i"
+  },
+  {
+    "title": "Black Myth: Wukong",
+    "developer": "Game Science",
+    "releaseYear": 2024,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ],
+    "cover": "covers/black-myth-wukong.jpg",
+    "igdbId": 136879,
+    "slug": "black-myth-wukong"
+  },
+  {
+    "title": "Mirror's Edge",
+    "developer": "EA Digital Illusions CE",
+    "releaseYear": 2008,
+    "completedDate": "2024",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "cover": "covers/mirror-s-edge.jpg",
+    "igdbId": 1051,
+    "slug": "mirrors-edge"
+  },
+  {
+    "title": "Call of Duty: WWII",
+    "developer": "Sledgehammer Games",
+    "releaseYear": 2017,
+    "completedDate": "2025",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter"
+    ],
+    "cover": "covers/call-of-duty-wwii.jpg",
+    "igdbId": 28204,
+    "slug": "call-of-duty-wwii"
+  },
+  {
+    "title": "Clair Obscur: Expedition 33",
+    "developer": "Sandfall Interactive",
+    "releaseYear": 2025,
+    "completedDate": "2025",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/clair-obscur-expedition-33.jpg",
+    "igdbId": 305152,
+    "slug": "clair-obscur-expedition-33"
+  },
+  {
+    "title": "Chorus",
+    "developer": "Fishlabs",
+    "releaseYear": 2021,
+    "completedDate": "2025",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Indie",
+      "Arcade"
+    ],
+    "cover": "covers/chorus.jpg",
+    "igdbId": 133305,
+    "slug": "chorus"
+  },
+  {
+    "title": "Ratchet & Clank: Rift Apart",
+    "developer": "Insomniac Games",
+    "releaseYear": 2021,
+    "completedDate": "2025",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ],
+    "cover": "covers/ratchet-clank-rift-apart.jpg",
+    "igdbId": 134582,
+    "slug": "ratchet-and-clank-rift-apart"
+  },
+  {
+    "title": "Front Mission",
+    "developer": "G-Craft",
+    "releaseYear": 1995,
+    "completedDate": "2026",
+    "platform": "SNES",
+    "source": "R36S",
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy"
+    ],
+    "cover": "covers/front-mission.jpg",
+    "igdbId": 1498,
+    "slug": "front-mission"
+  },
+  {
+    "title": "Star Wars Jedi: Survivor",
+    "developer": "Respawn Entertainment",
+    "releaseYear": 2023,
+    "completedDate": "2026",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Adventure"
+    ],
+    "cover": "covers/star-wars-jedi-survivor.jpg",
+    "igdbId": 201156,
+    "slug": "star-wars-jedi-survivor"
+  },
+  {
+    "title": "Observer",
+    "developer": "Bloober Team",
+    "releaseYear": 2017,
+    "completedDate": "2026",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/observer.jpg",
+    "igdbId": 19545,
+    "slug": "observer--2"
+  },
+  {
+    "title": "Ghostrunner",
+    "developer": "Slipgate Ironworks, 3D Realms, One More Level",
+    "releaseYear": 2020,
+    "completedDate": "2026",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ],
+    "cover": "covers/ghostrunner.jpg",
+    "igdbId": 121752,
+    "slug": "ghostrunner"
+  },
+  {
+    "title": "Replaced",
+    "developer": "Sad Cat Studios",
+    "releaseYear": 2026,
+    "completedDate": "2026",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/replaced.jpg",
+    "igdbId": 152244,
+    "slug": "replaced"
+  },
+  {
+    "title": "BioShock Remastered",
+    "developer": "2K Australia, 2K Boston, Feral Interactive",
+    "releaseYear": 2016,
+    "completedDate": "2026",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "cover": "covers/bioshock-remastered.jpg",
+    "igdbId": 34293,
+    "slug": "bioshock-remastered"
+  },
+  {
+    "title": "Echoes of the End: Enhanced Edition",
+    "developer": "Myrkur Games",
+    "releaseYear": 2025,
+    "completedDate": "2026",
+    "platform": "PC",
+    "source": "GOG",
+    "genres": [
+      "Adventure"
+    ],
+    "cover": "covers/echoes-of-the-end-enhanced-edition.jpg",
+    "igdbId": 411923,
+    "slug": "echoes-of-the-end-enhanced-edition--1"
+  },
+  {
+    "recordId": "824fd8b3-6787-4a0e-b46c-c23451c876c4",
+    "title": "Spyro 2: Ripto's Rage!",
+    "developer": "Toys for Bob",
+    "releaseYear": 2018,
+    "completedDate": "2026",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Adventure"
+    ],
+    "cover": "covers/spyro-2-ripto-s-rage.jpg",
+    "igdbId": 142242,
+    "slug": "spyro-2-riptos-rage"
+  },
+  {
+    "title": "Hob",
+    "developer": "Runic Games",
+    "releaseYear": 2017,
+    "completedDate": "2026",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/hob.jpg",
+    "igdbId": 14763,
+    "slug": "hob"
+  },
+  {
+    "title": "Braid",
+    "developer": "Number None Inc.",
+    "releaseYear": 2008,
+    "completedDate": "2026",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Strategy",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/braid.jpg",
+    "igdbId": 2853,
+    "slug": "braid"
+  },
+  {
+    "recordId": "63eb41ac-64df-4551-a6bf-8725944a68c7",
+    "title": "Hell is Us",
+    "developer": "Rogue Factor",
+    "releaseYear": 2025,
+    "completedDate": "2026-09-17",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Fighting",
+      "Role-playing (RPG)",
+      "Adventure"
+    ],
+    "cover": "covers/hell-is-us.jpg",
+    "igdbId": 196954,
+    "slug": "hell-is-us"
+  }
+]

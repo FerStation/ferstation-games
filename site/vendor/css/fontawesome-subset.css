@@ -1,0 +1,59 @@
+/* Font Awesome 6 - subconjunto estatico (apenas icones usados no site) */
+@font-face{
+    font-family:"Font Awesome 6 Free";
+    font-style:normal;
+    font-weight:900;
+    font-display:block;
+    src:url(../webfonts/fa-solid-900.woff2) format("woff2");
+}
+@font-face{
+    font-family:"Font Awesome 6 Free";
+    font-style:normal;
+    font-weight:400;
+    font-display:block;
+    src:url(../webfonts/fa-regular-400.woff2) format("woff2");
+}
+@font-face{
+    font-family:"Font Awesome 6 Brands";
+    font-style:normal;
+    font-weight:400;
+    font-display:block;
+    src:url(../webfonts/fa-brands-400.woff2) format("woff2");
+}
+.fa,.fa-brands,.fa-regular,.fa-solid{
+    -moz-osx-font-smoothing:grayscale;
+    -webkit-font-smoothing:antialiased;
+    display:inline-block;
+    font-style:normal;
+    font-variant:normal;
+    line-height:1;
+    text-rendering:auto;
+}
+.fa-solid{
+    font-family:"Font Awesome 6 Free";
+    font-weight:900;
+}
+.fa-regular{
+    font-family:"Font Awesome 6 Free";
+    font-weight:400;
+}
+.fa-brands{
+    font-family:"Font Awesome 6 Brands";
+    font-weight:400;
+}
+.fa-calendar-check:before{content:"\f274"}
+.fa-code:before{content:"\f121"}
+.fa-compact-disc:before{content:"\f51f"}
+.fa-desktop:before{content:"\f390"}
+.fa-gamepad:before{content:"\f11b"}
+.fa-globe:before{content:"\f0ac"}
+.fa-github:before{content:"\f09b"}
+.fa-itch-io:before{content:"\f83a"}
+.fa-mobile-screen-button:before{content:"\f3cd"}
+.fa-moon:before{content:"\f186"}
+.fa-playstation:before{content:"\f3df"}
+.fa-steam:before{content:"\f1b6"}
+.fa-store:before{content:"\f54e"}
+.fa-sun:before{content:"\f185"}
+.fa-timeline:before{content:"\e29c"}
+.fa-xbox:before{content:"\f412"}
