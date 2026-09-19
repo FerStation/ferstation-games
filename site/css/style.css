@@ -79,6 +79,19 @@
     color: #3a4a5e;
 }
 
+[data-theme="light"] .game {
+    border: 1px solid var(--border);
+    box-shadow: none;
+}
+
+[data-theme="light"] .game:hover {
+    box-shadow: none;
+}
+
+[data-theme="light"] .cover {
+    box-shadow: none;
+}
+
 [data-theme="dark"] {
     color-scheme: dark;
 }
