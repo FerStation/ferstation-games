@@ -11,7 +11,7 @@
 
         var t = localStorage.getItem("ferstation-theme");
         if (t !== "light" && t !== "dark") {
-            t = window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+            t = "dark";
         }
         document.documentElement.setAttribute("data-theme", t);
 

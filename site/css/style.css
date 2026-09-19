@@ -907,6 +907,37 @@ body {
         padding: 0 16px;
     }
 
+    .nav {
+        justify-content: center;
+    }
+
+    .brand {
+        display: none;
+    }
+
+    .nav-right {
+        gap: 8px;
+    }
+
+    .social {
+        gap: 8px;
+    }
+
+    .social a {
+        width: 34px;
+        height: 34px;
+    }
+
+    .capsule {
+        height: 34px;
+    }
+
+    .capsule-btn {
+        width: 30px;
+        height: 30px;
+        padding: 0 4px;
+    }
+
     .profile {
         flex-direction: column;
         text-align: center;
