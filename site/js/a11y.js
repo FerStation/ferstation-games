@@ -84,11 +84,8 @@
             const savedTheme = localStorage.getItem(THEME_KEY);
             if (savedTheme === "light" || savedTheme === "dark") {
                 theme = savedTheme;
-            } else if (
-                window.matchMedia &&
-                window.matchMedia("(prefers-color-scheme: light)").matches
-            ) {
-                theme = "light";
+            } else {
+                theme = "dark";
             }
         } catch (e) {
             /* ignore */
