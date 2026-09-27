@@ -2436,5 +2436,22 @@
     "cover": "covers/hell-is-us.jpg",
     "igdbId": 196954,
     "slug": "hell-is-us"
+  },
+  {
+    "recordId": "dd58ac82-f88c-40f7-801a-904d73b59a76",
+    "title": "Metal Eden",
+    "developer": "Reikon Games",
+    "releaseYear": 2025,
+    "completedDate": "2026-09-27",
+    "platform": "PC",
+    "source": "GOG/Heroic",
+    "genres": [
+      "Shooter",
+      "Adventure",
+      "Arcade"
+    ],
+    "cover": "covers/metal-eden.jpg",
+    "igdbId": 331214,
+    "slug": "metal-eden"
   }
 ]
