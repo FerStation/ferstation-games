@@ -2453,5 +2453,23 @@
     "cover": "covers/metal-eden.jpg",
     "igdbId": 331214,
     "slug": "metal-eden"
+  },
+  {
+    "recordId": "907538c2-583c-4b94-9aec-bc326ac1d718",
+    "title": "Ruiner",
+    "developer": "Reikon Games",
+    "releaseYear": 2017,
+    "completedDate": "2026-10-04",
+    "platform": "PC",
+    "source": "Steam",
+    "genres": [
+      "Shooter",
+      "Strategy",
+      "Adventure",
+      "Indie"
+    ],
+    "cover": "covers/ruiner.jpg",
+    "igdbId": 18857,
+    "slug": "ruiner"
   }
 ]
